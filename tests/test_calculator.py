@@ -21,3 +21,5 @@ def test_very_slow_calculation():
     """Гипотетический тест, который работает очень долго."""
     # для примера просто сделаем его успешным
     assert True
+
+    import pytest
