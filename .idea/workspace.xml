@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee74d62-0943-4ea1-bb01-e3f27d4cb6c6" name="Changes" comment="коммит для общего доступа к репозиторию">
+    <list default="true" id="0ee74d62-0943-4ea1-bb01-e3f27d4cb6c6" name="Changes" comment="Обновление по обучению на 27.03">
+      <change afterPath="$PROJECT_DIR$/tests/test_323.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_331.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_332.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_additionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_z8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +63,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_323.py.executor": "Run",
+    "Python tests.Python tests in test_331.py.executor": "Run",
+    "Python tests.Python tests in test_additionals.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1774524268448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Обновление по обучению на 27.03">
+      <option name="closed" value="true" />
+      <created>1774609997862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774609997862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="коммит для общего доступа к репозиторию" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммит для общего доступа к репозиторию" />
+    <MESSAGE value="Обновление по обучению на 27.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновление по обучению на 27.03" />
   </component>
 </project>
