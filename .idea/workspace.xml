@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ee74d62-0943-4ea1-bb01-e3f27d4cb6c6" name="Changes" comment="Обновление по обучению на 09/04" />
+    <list default="true" id="0ee74d62-0943-4ea1-bb01-e3f27d4cb6c6" name="Changes" comment="Обновление по обучению на 09/04">
+      <change afterPath="$PROJECT_DIR$/1.0.0_0.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.0.0_0.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_611.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_612.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_631.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_632.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_633.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_641.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_useacc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,18 +59,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests in test_323.py.executor": "Run",
-    "Python tests.Python tests in test_331.py.executor": "Run",
-    "Python tests.Python tests in test_additionals.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in test_323.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_331.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_additionals.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_extensions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_useacc.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/autotests/AutoTestLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\autotests\AutoTestLearning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\autotests\AutoTestLearning\tests" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,8 +122,27 @@
       <option name="project" value="LOCAL" />
       <updated>1775751903651</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Обновление по обучению на 09/04">
+      <option name="closed" value="true" />
+      <created>1775751959231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775751959232</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="коммит для общего доступа к репозиторию" />
