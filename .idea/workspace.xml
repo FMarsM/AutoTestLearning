@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee74d62-0943-4ea1-bb01-e3f27d4cb6c6" name="Changes" comment="Обновление по обучению на 09/04">
-      <change afterPath="$PROJECT_DIR$/tests/test_665.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_666.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_6610.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_6611.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_667.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_668.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_669.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_711.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoTestLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTestLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_665.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_665.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +49,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/FMarsM/AutoTestLearning&quot;,
-    &quot;accountId&quot;: &quot;7bb259ad-708e-4082-a53e-e80ae68edb93&quot;
+    &quot;url&quot;: &quot;https://github.com/FMarsM/AutoTestLearning.git&quot;,
+    &quot;accountId&quot;: &quot;69a3d314-909b-458a-aef6-a4c2c7969cf3&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -63,12 +73,13 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/autotests/AutoTestLearning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tester/PycharmProjects/AutoTestLearning/.venv&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tester\PycharmProjects\AutoTestLearning\.venv" />
       <recent name="C:\autotests\AutoTestLearning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
